@@ -1,0 +1,117 @@
+body {
+    background-color: #121722;
+}
+
+
+
+.mynav {
+    font-size: 30px;
+    font-family: 'PT Sans Narrow', sans-serif;
+    color: brown;
+
+
+}
+
+
+.mynavbar {
+    padding-top: 80px;
+    margin: 10px;
+    margin-left: 30px;
+    padding-right: 30px;
+    
+    font-size: 15px;
+    font-weight: 600;
+
+}
+
+
+.myscrhift {
+    font-size: 60px;
+    padding-bottom: 10px;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-weight: 700;
+    color: white;
+}
+
+
+.banner {
+
+    padding-top: 10px;
+    margin-left: 40px;
+    font-size: 20px;
+ font-weight: 700;
+ padding-right: 40px;
+ 
+    color: white;
+
+}
+
+
+.myschrift2 {
+    padding-bottom: 5px;
+    color: white;
+}
+
+.mykuli {
+    color: white;
+    line-height: 1em;
+    font-size: 60px;
+    font-weight: 700;
+}
+
+
+
+.mykuli2 {
+    color: white;
+    line-height: 1em;
+    font-size: 60px;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+
+
+.mypara {
+    color: white;
+    font-size: 30px;
+    font-weight: 100;
+}
+
+.mykuli3{
+    color: white;
+    
+    font-size: 60px;
+    font-weight: 700;
+    
+}
+
+.mycolor{
+    font-family: "Font Awesome 6 Brands";
+    font-weight: 400;
+    color: #fe6666;
+    margin-left: 30px;
+  }
+
+
+  .mybutton{
+    max-width: 270px;
+width: 100%;
+margin-bottom: 50px;
+margin-left: 90px;
+
+border-radius: 40px;
+font-size: 1.2em;
+min-height: 76px;
+line-height: 100%;
+font-family: 'PT Sans Narrow', sans-serif;
+font-weight: 700;
+letter-spacing: .5px;
+border: none;
+position: relative;
+transition: .5s all;
+display: flex;
+justify-content: center;
+align-items: center;
+border: 2px solid #f66;
+  }
+
+ 
